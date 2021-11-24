@@ -70,7 +70,7 @@ Users should be able to:
 
 - Solution URL: [Github](https://github.com/unoflavora/memory-game)
 
-- Live Site URL: [https://memory-gamev1.herokuapp.com/](https://your-live-site-url.com)
+- Live Site URL: [Deployed on Heroku](https://memory-gamev1.herokuapp.com/)
 
   
 
