@@ -7,7 +7,7 @@ function PlayBoard({numbers, data, state, startGame, dispatch}) {
           disabled={!startGame}
           onClick={() => dispatch({type:'open', payload:i})} 
           key={i}
-          className={`${size} text-xl md:text-4xl font-atkinson flex justify-center items-center  rounded-full text-white
+          className={`${size} hover:bg-memory-softblue text-xl md:text-4xl font-atkinson flex justify-center items-center  rounded-full text-white
           ${state.openCorrect.includes(i) ? 'bg-memory-darkblue' : state.open.includes(i) ? 'bg-memory-orange' : 'bg-memory-black'} `}>
             <p className={`${state.openCorrect.includes(i) ? 'block' : state.open.includes(i) ? 'block' : 'hidden'}`}>{num}</p>
         </button>
