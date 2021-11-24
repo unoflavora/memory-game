@@ -1,10 +1,5 @@
 
-# Frontend Mentor - Memory game solution
-
-  
-
-This is a solution to the [Memory game challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/memory-game-vse4WFPvM). 
-  
+# Memory game  
 
 ## Table of contents
 
@@ -103,11 +98,4 @@ Next update should have a how-to-play screen and some animation.
 
 - Twitter - [@imamsyahid_](https://www.twitter.com/imamsyahid_)
 
-  
 
-## Acknowledgments
-
-  
-
-Thank you to Frontend Mentor for providing this challenge
-  
